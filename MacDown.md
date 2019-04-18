@@ -7,7 +7,9 @@ Hello there! I’m **MacDown**, the open source Markdown editor for OS X.
 
 Let me introduce myself. I am Sebastian Werner this is a test.
 
-<input class='input-text' type='text' placeholder='Text'>
+I like markdown! And this is awesome.
+
+
 
 ## Markdown and I are happy together
 
