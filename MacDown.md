@@ -24,7 +24,7 @@ You can customize the editor window to you liking in the [**Editor** preferences
 
 You can configure various application (that's me!) behaviors in the [**General** preference pane](#general-pane).
 
-## The Basics
+## The Basics are easy to understand
 Before I tell you about all the extra syntaxes and capabilities I have, I'll introduce you to the basics of standard markdown. If you already know markdown, and want to jump straight to learning about the fancier things I can do, I suggest you skip to the [**Markdown** preference pane](#markdown-pane). Lets jump right in.  
 
 ### Line Breaks
@@ -46,17 +46,17 @@ won't break
 will break
 ```
 
-### Strong and Emphasize
+### Strong and Emphasize is a nice thing to have
 
 **Strong**: `**Strong**` or `__Strong__` (Command-B)  
 *Emphasize*: `*Emphasize*` or `_Emphasize_`[^emphasize] (Command-I)
 
 ### Headers (like this one!)
 
-	Header 1
+	Header 1 is 1
 	========
 
-	Header 2
+	Header 2 is 2
 	--------
 
 or
