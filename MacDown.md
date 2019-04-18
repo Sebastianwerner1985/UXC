@@ -1,11 +1,11 @@
 # MacDown support for Mac
-## MacDown is a cool tool
+## MacDown is a cool tool and handy to use
 
 ![MacDown logo](http://macdown.uranusjr.com/static/images/logo-160.png)
 
 Hello there! I’m **MacDown**, the open source Markdown editor for OS X.
 
-Let me introduce myself. I am Sebastian
+Let me introduce myself. I am Sebastian Werner this is a test.
 
 <input class='input-text' type='text' placeholder='Text'>
 
@@ -31,7 +31,7 @@ Before I tell you about all the extra syntaxes and capabilities I have, I'll int
 ### Line Breaks
 To force a line break, put two spaces and a newline (return) at the end of the line.
 
-* This two-line bullet
+* This two-line bullet has now 3
 won't break
 
 * This two-line bullet  
